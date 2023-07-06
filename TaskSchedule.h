@@ -4,6 +4,7 @@
 #include <stdint.h>
 
 
+void TaskSchedule_Init(void);
 void TaskSchedule_Loader(void);
 
 
